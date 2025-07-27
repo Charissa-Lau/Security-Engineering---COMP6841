@@ -1,1 +1,1 @@
-##Techinical Analysis Report and demo script for NotPetya Ransomware Campaign##
+##Techinical Analysis Report and demo script for NotPetya Ransomware Campaign
